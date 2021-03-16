@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\CamerasWithCode2.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{A820D5D8-41CE-422D-86C9-18582A5876E1}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\CamerasWithCode2.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\CamerasWithCode2Editor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{02777429-425F-439B-983C-8974AB168C9C}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\CamerasWithCode2">
+      <UniqueIdentifier>{1B066DA3-D441-412C-86EB-D4B105159213}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\CamerasWithCode2\CamerasWithCode2.Build.cs">
+      <Filter>Source\CamerasWithCode2</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\CamerasWithCode2\CamerasWithCode2.cpp">
+      <Filter>Source\CamerasWithCode2</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CamerasWithCode2\CamerasWithCode2.h">
+      <Filter>Source\CamerasWithCode2</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CamerasWithCode2\CamerasWithCode2GameModeBase.cpp">
+      <Filter>Source\CamerasWithCode2</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CamerasWithCode2\CamerasWithCode2GameModeBase.h">
+      <Filter>Source\CamerasWithCode2</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

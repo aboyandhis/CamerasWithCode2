@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "CamerasWithCode2",
+			"Path": "D:\\My Games\\CamerasWithCode2\\Source\\CamerasWithCode2.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "CamerasWithCode2Editor",
+			"Path": "D:\\My Games\\CamerasWithCode2\\Source\\CamerasWithCode2Editor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

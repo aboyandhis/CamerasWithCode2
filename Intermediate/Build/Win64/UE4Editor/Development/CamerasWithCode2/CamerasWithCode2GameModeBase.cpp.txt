@@ -1,0 +1,7 @@
+D:\My Games\CamerasWithCode2\Intermediate\Build\Win64\UE4Editor\Development\CamerasWithCode2\Definitions.CamerasWithCode2.h
+D:\My Games\CamerasWithCode2\Source\CamerasWithCode2\CamerasWithCode2GameModeBase.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+D:\My Games\CamerasWithCode2\Intermediate\Build\Win64\UE4Editor\Inc\CamerasWithCode2\CamerasWithCode2GameModeBase.generated.h

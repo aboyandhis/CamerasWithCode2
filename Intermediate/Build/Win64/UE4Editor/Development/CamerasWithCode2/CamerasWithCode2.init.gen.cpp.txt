@@ -1,0 +1,3 @@
+D:\My Games\CamerasWithCode2\Intermediate\Build\Win64\UE4Editor\Development\CamerasWithCode2\Definitions.CamerasWithCode2.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h

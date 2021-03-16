@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-CamerasWithCode2.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\My Games\CamerasWithCode2\Intermediate\Build\Win64\CamerasWithCode2Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\My Games\CamerasWithCode2\Intermediate\Build\Win64\UE4Editor\Development\CamerasWithCode2\CamerasWithCode2.cpp.obj"
+"D:\My Games\CamerasWithCode2\Intermediate\Build\Win64\UE4Editor\Development\CamerasWithCode2\CamerasWithCode2GameModeBase.cpp.obj"
+"D:\My Games\CamerasWithCode2\Intermediate\Build\Win64\UE4Editor\Development\CamerasWithCode2\CamerasWithCode2.init.gen.cpp.obj"
+"D:\My Games\CamerasWithCode2\Intermediate\Build\Win64\UE4Editor\Development\CamerasWithCode2\CamerasWithCode2GameModeBase.gen.cpp.obj"
+"D:\My Games\CamerasWithCode2\Intermediate\Build\Win64\UE4Editor\Development\CamerasWithCode2\Default.rc2.res"
+/OUT:"D:\My Games\CamerasWithCode2\Intermediate\Build\Win64\UE4Editor\Development\CamerasWithCode2\UE4Editor-CamerasWithCode2.lib"
+/INCLUDE:IMPLEMENT_MODULE_CamerasWithCode2
